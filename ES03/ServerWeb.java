@@ -1,3 +1,10 @@
+/**
+ * Implementazione di un server web utilizzando la comunicazione tramite socket.
+ * Lettura dati multi riga provenienti dal client
+ * 
+ * from folder network/..
+ * javac network/TcpServer.java; java network.TcpServer 
+ */
 package network;
 
 import java.io.*;
